@@ -13,7 +13,7 @@ import re
 
 # Set your OpenAI API key here
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Global variable to store audio data
 audio = []
